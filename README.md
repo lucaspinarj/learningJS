@@ -1,2 +1,2 @@
-# learningJS
- my progress with JS
+# Learning JavaScript
+About my JS story
